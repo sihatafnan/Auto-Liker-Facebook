@@ -7,4 +7,7 @@ python -m pip install opencv_python
 ```
 Then copy your friend's profile url and paste it in the line 5 of autolike.py.You can change the number of posts you want to like too.Now run the python script.
 
-[](emo.mp4)
+
+https://user-images.githubusercontent.com/57033114/137590413-47d76234-7517-4ddc-ac60-903dc14c1d9c.mp4
+
+
