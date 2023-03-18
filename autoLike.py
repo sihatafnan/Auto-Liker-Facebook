@@ -2,8 +2,7 @@ import time
 import pyautogui
 import webbrowser
 
-webbrowser.open('https://www.facebook.com/nesarali.titumir')#put your friend's profile URL here
-
+webbrowser.open('https://www.facebook.com/profile.php?id=100090584889375&mibextid=ZbWKwL')
 no_of_posts = 10
 liked = 0
 while(True):
